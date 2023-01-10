@@ -1,0 +1,61 @@
+#wordTable {
+    font-weight: bold;
+    font-size: 24px;
+    
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 3px;
+}
+
+td {
+    width: 2.5em;
+    height: 2.5em;
+    text-align: center;
+    vertical-align: bottom;
+    border-radius: 10px;
+    border-bottom: 5px solid;
+    background-color: rgb(127, 242, 255);
+}
+
+#insertLettersCard {
+    width: 20em;
+    height: 10em;
+}
+
+#wrongLettersCard { 
+    width: 20em;
+}
+
+#gameIlustration {
+    width: 30em;
+    height: 20em;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 0 10px;
+  }
+
+#addNotes {
+    color: red;
+    font-size: 11px;
+}
+
+#wrong3 {
+    rotate: -30deg;
+}
+
+#wrong4 {
+    rotate: 30deg;
+}
+
+#wrong5 {
+    rotate: 60deg;
+}
+
+#wrong6 {
+    rotate: -60deg;
+}
